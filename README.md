@@ -1,4 +1,4 @@
-TechEd Africa 2013 - JavaScript: The Language
+TechEd Africa 2013 - DEV403 - JavaScript: The Language
 ======================
 
 _Level 400_
